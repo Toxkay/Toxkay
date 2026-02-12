@@ -99,36 +99,51 @@ toxkay@github:~$ ls -la ./repositories/
 ```
 
 <details>
-<summary>📂 <b>CS251-Asset-Management-Zakat-Calculation-System</b></summary>
-  
-> **[DEPLOYED]** Full-stack asset management system with zakat calculation algorithms  
-> `Technologies:` Backend Logic | Database Design | Financial Computing  
-> `Status:` ✅ Mission Complete
+   <summary>🛡️ <b>Summer-Intern-Final-Project-NETSEC</b></summary>
+[CLASSIFIED] Capstone network security project from NTI training program
+Technologies: Network Security | Cisco Packet Tracer | Security Hardening
+Skills: Multi-area secure network design | VPNs | Firewalls | ACLs | Routing Protocols
+Status: ✅ Mission Complete
+
+</details> 
+
+<details> 
+   <summary>🖥️ <b>Vole-Machine</b></summary>
+[ACTIVE] Custom virtual machine implementation in C++
+Technologies: C++ | System Programming | Low-Level Architecture
+Skills: Memory Management | Instruction Set Design | Computer Architecture
+Status: 🟢 Operational
+
+</details> 
+
+<details> 
+   <summary>⚙️ <b>CS341-A3-CPU-Scheduler</b></summary>
+[DEPLOYED] CPU scheduling algorithms simulator (FCFS, SJF, Round Robin, Priority)
+Technologies: Java | Operating Systems Concepts
+Skills: Process Management | Algorithm Implementation | Performance Analysis
+Status: ✅ Fully Functional
+
 </details>
 
-<details>
-<summary>🎮 <b>Games-</b></summary>
-  
-> **[ACTIVE]** Collection of Tic-Tac-Toe variations with unique game mechanics  
-> `Technologies:` C++ | Game Logic | OOP Principles  
-> `Status:` 🟢 Live & Playable
-</details>
+<details> 
+   <summary>💻 <b>CS341-A1-Command-Line-Interpreter</b></summary>
+[ACTIVE] Custom shell/CLI interpreter with command parsing and execution
+Technologies: Java | Systems Programming
+Skills: Process Control | I/O Handling | Command Parsing
+Status: 🟢 Live & Functional
 
-<details>
-<summary>🌐 <b>Web-project</b></summary>
-  
-> **[DEPLOYED]** Web application demonstrating full-stack development skills  
-> `Technologies:` JavaScript | PHP | SQL | HTML/CSS  
-> `Status:` ✅ Operational
-</details>
+</details> 
 
-<details>
-<summary>💻 <b>My_Project</b></summary>
-  
-> **[ARCHIVED]** Academic assignment showcasing C++ proficiency  
-> `Technologies:` C++ | Data Structures & Algorithms  
-> `Status:` 📦 Completed
-</details>
+<details> 
+   <summary>💰 <b>CS251-Asset-Management-Zakat-Calculation-System</b></summary>
+[DEPLOYED] Full-stack asset management system with zakat calculation algorithms
+Technologies: Backend Logic | Database Design | Financial Computing
+Status: ✅ Mission Complete
+
+</details> 
+
+
+```
 
 ---
 
