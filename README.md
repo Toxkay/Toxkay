@@ -253,10 +253,10 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║        "The best defense is a good offense"           ║
-║        - Penetration Testing Philosophy               ║
-╚═══════════════════════════════════════════════════════╝
+         ╔═══════════════════════════════════════════════════════╗
+         ║        "The best defense is a good offense"           ║
+         ║        - Penetration Testing Philosophy               ║
+         ╚═══════════════════════════════════════════════════════╝
 ```
 
 **`[*] System Status: Online | [*] Threat Level: Green | [*] Coffee Level: Critical`**
