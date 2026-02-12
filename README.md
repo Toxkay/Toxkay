@@ -54,41 +54,61 @@ class PenetrationTester:
         self.mindset = "Think like an attacker, defend like an architect"
         self.certifications = ["SANS SEC542", "eWPT", "NTI CCNA Track"]
         self.training_hours = 120
-        
-    def exploit_vector(self):
-        return {
-            "web_vulns": [
-                "SQLi", "XSS", "CSRF", "SSRF", 
-                "LFI/RFI", "Command Injection"
-            ],
-            "methodology": "OWASP Top 10",
-            "recon": [
-                "OSINT", 
-                "Directory Fuzzing", 
-                "Tech Stack Enumeration"
-            ],
-            "tools": [
-                "Burp Suite Pro", "OWASP ZAP", 
-                "ffuf", "Nmap", "Wireshark"
-            ]
-        }
-    
-    def network_arsenal(self):
-        return {
-            "cisco": [
-                "Routing (OSPF, RIP)", "VLANs", 
-                "ACLs", "Zone-Based Firewalls"
-            ],
-            "hardening": [
-                "AAA (RADIUS/TACACS+)", 
-                "VPNs", "NAT", "IP Subnetting"
-            ],
-            "protocols": [
-                "TCP/IP", "DNS", "DHCP", 
-                "Secure Network Topology Design"
-            ]
-        }
 ```
+
+<details>
+<summary><b>🎯 Web Application Security</b></summary>
+
+<br>
+
+**Vulnerabilities:**
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- Server-Side Request Forgery (SSRF)
+- Local/Remote File Inclusion (LFI/RFI)
+- Command Injection
+
+**Methodology:** OWASP Top 10
+
+**Reconnaissance:**
+- OSINT
+- Directory Fuzzing
+- Tech Stack Enumeration
+
+**Tools:**
+- Burp Suite Pro
+- OWASP ZAP
+- ffuf
+- Nmap
+- Wireshark
+
+</details>
+
+<details>
+<summary><b>🌐 Network Security & Infrastructure</b></summary>
+
+<br>
+
+**Cisco Networking:**
+- Routing (OSPF, RIP)
+- VLANs
+- Access Control Lists (ACLs)
+- Zone-Based Firewalls
+
+**Security Hardening:**
+- AAA (RADIUS/TACACS+)
+- VPNs
+- NAT
+- IP Subnetting
+
+**Protocols:**
+- TCP/IP
+- DNS
+- DHCP
+- Secure Network Topology Design
+
+</details>
 
 ---
 
@@ -140,10 +160,10 @@ class PenetrationTester:
 toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 ```
 
-### 🛡️ **Security & Networking**
+<details open>
+<summary><b>🛡️ Security & Networking</b></summary>
 
-<table>
-<tr><td>
+<br>
 
 #### **[Summer-Intern-Final-Project-NETSEC](https://github.com/Toxkay/Summer-Intern-Final-Project-NETSEC)** `[CLASSIFIED]` ✅
 
@@ -153,13 +173,12 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 **Capabilities:** Multi-area secure network design • VPNs • Zone-Based Firewalls • ACLs • Routing Protocols (OSPF, RIP)  
 **Impact:** Implemented defense-in-depth security architecture for multi-site corporate network
 
-</td></tr>
-</table>
+</details>
 
-### 💻 **Systems Programming**
+<details open>
+<summary><b>💻 Systems Programming</b></summary>
 
-<table>
-<tr><td>
+<br>
 
 #### **[Vole-Machine](https://github.com/Toxkay/Vole-Machine)** `[OPERATIONAL]` 🟢
 
@@ -169,8 +188,7 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 **Capabilities:** Memory Management • Custom Instruction Set • CPU Simulation  
 **Challenge:** Understanding computer architecture at the hardware-software interface
 
-</td></tr>
-<tr><td>
+---
 
 #### **[CS341-A3-CPU-Scheduler](https://github.com/Toxkay/CS341-A3-CPU-Scheduler)** `[DEPLOYED]` ✅
 
@@ -180,8 +198,7 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 **Algorithms:** FCFS • Shortest Job First • Round Robin • Priority Scheduling  
 **Features:** Performance benchmarking • Gantt chart visualization • Turnaround time analysis
 
-</td></tr>
-<tr><td>
+---
 
 #### **[CS341-A1-Command-Line-Interpreter](https://github.com/Toxkay/CS341-A1-Command-Line-Interpreter)** `[ACTIVE]` 🟢
 
@@ -191,13 +208,12 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 **Capabilities:** Process Control • I/O Redirection • Pipe Implementation • Command Parsing  
 **Learning:** Deep dive into OS process management and inter-process communication
 
-</td></tr>
-</table>
+</details>
 
-### 🚀 **Application Development**
+<details open>
+<summary><b>🚀 Application Development</b></summary>
 
-<table>
-<tr><td>
+<br>
 
 #### **[CS251-Asset-Management-Zakat-Calculation-System](https://github.com/Toxkay/CS251-Asset-Management-Zakat-Calculation-System)** `[COMPLETE]` ✅
 
@@ -207,8 +223,7 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 **Features:** Asset tracking • Automated zakat calculation • Multi-user support  
 **Complexity:** Complex business logic with religious compliance requirements
 
-</td></tr>
-</table>
+</details>
 
 ```bash
 [*] 5 Projects Deployed | [*] Focus: Security • Systems • Development
