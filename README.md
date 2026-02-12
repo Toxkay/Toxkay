@@ -265,14 +265,21 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 
 <div align="center">
 
-<a href="https://github.com/Toxkay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117&border_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=radical&title_color=00FF00&text_color=00FF00&bg_color=0d1117&border_color=00FF00&langs_count=8"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=radical&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&background=0d1117&border=00FF00" alt="GitHub Streak Stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=ffffff&border_color=00FF00&langs_count=8)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Toxkay&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Trophies" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=Toxkay&theme=dark&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=ffffff&sideLabels=00FF00&dates=ffffff&border=00FF00)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Toxkay&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="center">
+
+```bash
+[*] Total Commits  [*] Total Stars  [*] Current Streak: Active
+```
 
 </div>
 
@@ -309,12 +316,6 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 ║  - Penetration Testing Philosophy                     ║
 ╚═══════════════════════════════════════════════════════╝
 ```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake.svg">
-</picture>
 
 **`[*] System Status: Online | [*] Threat Level: Green | [*] Coffee Level: Critical`**
 
