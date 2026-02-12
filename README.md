@@ -9,7 +9,7 @@
 
 <div align="center">
   
-### `[ PENETRATION TESTER | SECURITY RESEARCHER | IT SPECIALIST ]`
+### `[ PENETRATION TESTER ]`
 
 ```diff
 + root@toxkay:~# whoami
