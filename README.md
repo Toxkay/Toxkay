@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ████████╗ ██████╗ ██╗  ██╗██╗  ██╗ █████╗ ██╗   ██╗
 ╚══██╔══╝██╔═══██╗╚██╗██╔╝██║ ██╔╝██╔══██╗╚██╗ ██╔╝
@@ -7,9 +9,7 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-<div align="center">
-  
-### `[ PENETRATION TESTER ]`
+### `[ PENETRATION TESTER | SECURITY RESEARCHER ]`
 
 ```diff
 + root@toxkay:~# whoami
@@ -17,8 +17,10 @@
 + Exploiting vulnerabilities, one CVE at a time...
 ```
 
-[![GitHub Toxkay](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
+[![GitHub](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
 ![Profile Views](https://komarev.com/ghpvc/?username=Toxkay&color=00FF00&style=for-the-badge&label=INTRUSION+ATTEMPTS)
+
+**[`About`](#-system-reconnaissance) • [`Skills`](#-offensive-capabilities) • [`Projects`](#-project-arsenal) • [`Training`](#-training-logs) • [`Contact`](#-contact-protocol)**
 
 </div>
 
@@ -31,10 +33,29 @@
 └─$ cat /etc/hacker.conf
 ```
 
-🎓 **BSc in Computers & AI** @ Cairo University (2027)  
-🔐 **120+ Hours** of Network Security & Penetration Testing Training  
-💼 **Former IT Help-Desk** @ Patriarchal College  
-🎯 **Current Mission:** Breaking systems to build better defenses
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Mission**
+Breaking systems to build better defenses
+
+### 🎓 **Education**
+**BSc in Computers & AI**  
+Cairo University (Expected 2027)
+
+</td>
+<td width="50%">
+
+### 🔐 **Experience**
+**120+ Hours** Network Security & Penetration Testing Training
+
+### 💼 **Previous Role**
+IT Help-Desk @ Patriarchal College
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,22 +65,41 @@
 class PenetrationTester:
     def __init__(self):
         self.mindset = "Think like an attacker, defend like an architect"
-        self.certifications = ["SANS SEC542", "eWPT"]
+        self.certifications = ["SANS SEC542", "eWPT", "NTI CCNA Track"]
         self.training_hours = 120
         
     def exploit_vector(self):
         return {
-            "web_vulns": ["SQLi", "XSS", "CSRF", "SSRF", "LFI/RFI", "Command Injection"],
+            "web_vulns": [
+                "SQLi", "XSS", "CSRF", "SSRF", 
+                "LFI/RFI", "Command Injection"
+            ],
             "methodology": "OWASP Top 10",
-            "recon": ["OSINT", "Directory Fuzzing", "Tech Stack Enumeration"],
-            "tools": ["Burp Suite Pro", "OWASP ZAP", "ffuf", "Nmap", "Wireshark"]
+            "recon": [
+                "OSINT", 
+                "Directory Fuzzing", 
+                "Tech Stack Enumeration"
+            ],
+            "tools": [
+                "Burp Suite Pro", "OWASP ZAP", 
+                "ffuf", "Nmap", "Wireshark"
+            ]
         }
     
     def network_arsenal(self):
         return {
-            "cisco": ["Routing (OSPF, RIP)", "VLANs", "ACLs", "Zone-Based Firewalls"],
-            "hardening": ["AAA (RADIUS/TACACS+)", "VPNs", "NAT", "IP Subnetting"],
-            "protocols": ["TCP/IP", "DNS", "DHCP", "Secure Network Topology Design"]
+            "cisco": [
+                "Routing (OSPF, RIP)", "VLANs", 
+                "ACLs", "Zone-Based Firewalls"
+            ],
+            "hardening": [
+                "AAA (RADIUS/TACACS+)", 
+                "VPNs", "NAT", "IP Subnetting"
+            ],
+            "protocols": [
+                "TCP/IP", "DNS", "DHCP", 
+                "Secure Network Topology Design"
+            ]
         }
 ```
 
@@ -70,157 +110,142 @@ class PenetrationTester:
 <div align="center">
 
 ### `[+] Exploitation & Security Tools`
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### `[+] Programming Languages`
+### `[+] Programming & Scripting`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### `[+] Network & Infrastructure`
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
+
 ## `// PROJECT ARSENAL >> DEPLOYMENT LOG`
 
 ```bash
-toxkay@github:~$ cat ./projects.manifest | grep -E "(security|systems|development)"
+toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 ```
 
-<div align="left">
-
-### 🎯 **Security & Networking**
+### 🛡️ **Security & Networking**
 
 <table>
-<tr>
-<td width="50px">🛡️</td>
-<td>
-<details>
-<summary><b>Summer-Intern-Final-Project-NETSEC</b> → <code>Mission Complete</code> ✅</summary>
-<br>
-<blockquote>
-<b>[CLASSIFIED]</b> Enterprise-grade network security infrastructure designed during NTI training program
-<br><br>
-<b>Tech Stack:</b> Network Security · Cisco Packet Tracer · Security Hardening<br>
-<b>Capabilities:</b> Multi-area secure network design · VPNs · Zone-Based Firewalls · ACLs · Routing Protocols (OSPF, RIP)<br>
-<b>Impact:</b> Implemented defense-in-depth security architecture for multi-site corporate network
-</blockquote>
-</details>
-</td>
-</tr>
+<tr><td>
+
+#### **[Summer-Intern-Final-Project-NETSEC](https://github.com/Toxkay/Summer-Intern-Final-Project-NETSEC)** `[CLASSIFIED]` ✅
+
+> Enterprise-grade network security infrastructure designed during NTI training program
+
+**Tech Stack:** Network Security • Cisco Packet Tracer • Security Hardening  
+**Capabilities:** Multi-area secure network design • VPNs • Zone-Based Firewalls • ACLs • Routing Protocols (OSPF, RIP)  
+**Impact:** Implemented defense-in-depth security architecture for multi-site corporate network
+
+</td></tr>
 </table>
 
 ### 💻 **Systems Programming**
 
 <table>
-<tr>
-<td width="50px">🖥️</td>
-<td>
-<details>
-<summary><b>Vole-Machine</b> → <code>Operational</code> 🟢</summary>
-<br>
-<blockquote>
-Custom virtual machine implementation built from scratch in C++
-<br><br>
-<b>Tech Stack:</b> C++ · System Programming · Low-Level Architecture<br>
-<b>Capabilities:</b> Memory Management · Custom Instruction Set · CPU Simulation<br>
-<b>Challenge:</b> Understanding computer architecture at the hardware-software interface
-</blockquote>
-</details>
-</td>
-</tr>
-<tr>
-<td width="50px">⚙️</td>
-<td>
-<details>
-<summary><b>CS341-A3-CPU-Scheduler</b> → <code>Deployed</code> ✅</summary>
-<br>
-<blockquote>
-Multi-algorithm CPU scheduler simulator implementing industry-standard scheduling techniques
-<br><br>
-<b>Tech Stack:</b> Java · Operating Systems Concepts · Algorithm Design<br>
-<b>Algorithms:</b> FCFS · Shortest Job First · Round Robin · Priority Scheduling<br>
-<b>Features:</b> Performance benchmarking · Gantt chart visualization · Turnaround time analysis
-</blockquote>
-</details>
-</td>
-</tr>
-<tr>
-<td width="50px">💻</td>
-<td>
-<details>
-<summary><b>CS341-A1-Command-Line-Interpreter</b> → <code>Active</code> 🟢</summary>
-<br>
-<blockquote>
-Unix-like shell interpreter with advanced command parsing and process management
-<br><br>
-<b>Tech Stack:</b> Java · Systems Programming · POSIX Standards<br>
-<b>Capabilities:</b> Process Control · I/O Redirection · Pipe Implementation · Command Parsing<br>
-<b>Learning:</b> Deep dive into OS process management and inter-process communication
-</blockquote>
-</details>
-</td>
-</tr>
+<tr><td>
+
+#### **[Vole-Machine](https://github.com/Toxkay/Vole-Machine)** `[OPERATIONAL]` 🟢
+
+> Custom virtual machine implementation built from scratch in C++
+
+**Tech Stack:** C++ • System Programming • Low-Level Architecture  
+**Capabilities:** Memory Management • Custom Instruction Set • CPU Simulation  
+**Challenge:** Understanding computer architecture at the hardware-software interface
+
+</td></tr>
+<tr><td>
+
+#### **[CS341-A3-CPU-Scheduler](https://github.com/Toxkay/CS341-A3-CPU-Scheduler)** `[DEPLOYED]` ✅
+
+> Multi-algorithm CPU scheduler simulator implementing industry-standard scheduling techniques
+
+**Tech Stack:** Java • Operating Systems Concepts • Algorithm Design  
+**Algorithms:** FCFS • Shortest Job First • Round Robin • Priority Scheduling  
+**Features:** Performance benchmarking • Gantt chart visualization • Turnaround time analysis
+
+</td></tr>
+<tr><td>
+
+#### **[CS341-A1-Command-Line-Interpreter](https://github.com/Toxkay/CS341-A1-Command-Line-Interpreter)** `[ACTIVE]` 🟢
+
+> Unix-like shell interpreter with advanced command parsing and process management
+
+**Tech Stack:** Java • Systems Programming • POSIX Standards  
+**Capabilities:** Process Control • I/O Redirection • Pipe Implementation • Command Parsing  
+**Learning:** Deep dive into OS process management and inter-process communication
+
+</td></tr>
 </table>
 
 ### 🚀 **Application Development**
 
 <table>
-<tr>
-<td width="50px">💰</td>
-<td>
-<details>
-<summary><b>CS251-Asset-Management-Zakat-Calculation-System</b> → <code>Complete</code> ✅</summary>
-<br>
-<blockquote>
-Full-stack financial management system with Islamic finance calculation engine
-<br><br>
-<b>Tech Stack:</b> Backend Development · Database Design · Financial Computing<br>
-<b>Features:</b> Asset tracking · Automated zakat calculation · Multi-user support<br>
-<b>Complexity:</b> Complex business logic with religious compliance requirements
-</blockquote>
-</details>
-</td>
-</tr>
+<tr><td>
+
+#### **[CS251-Asset-Management-Zakat-Calculation-System](https://github.com/Toxkay/CS251-Asset-Management-Zakat-Calculation-System)** `[COMPLETE]` ✅
+
+> Full-stack financial management system with Islamic finance calculation engine
+
+**Tech Stack:** Backend Development • Database Design • Financial Computing  
+**Features:** Asset tracking • Automated zakat calculation • Multi-user support  
+**Complexity:** Complex business logic with religious compliance requirements
+
+</td></tr>
 </table>
 
-</div>
-
 ```bash
-[*] 5 Projects Deployed | [*] Focus Areas: Security, Systems, Development
+[*] 5 Projects Deployed | [*] Focus: Security • Systems • Development
 ```
-
----
 
 ---
 
 ## `// TRAINING LOGS >> CERTIFICATIONS`
 
-```diff
-! [SANS SEC542] Web App Penetration Testing & Ethical Hacking (60+ hours)
-! [eWPT] eLearnSecurity Web Application Penetration Tester (60+ hours)
-! [NTI] Network Security - CompTIA Security+ & CCNA Track (120+ hours)
-```
+<div align="center">
+
+| Certification | Description | Hours |
+|:---|:---|:---:|
+| **🔴 SANS SEC542** | Web App Penetration Testing & Ethical Hacking | 60+ |
+| **🔴 eWPT** | eLearnSecurity Web Application Penetration Tester | 60+ |
+| **🔴 NTI Security+** | Network Security - CompTIA Security+ & CCNA Track | 120+ |
+
+**Total Training Hours: 240+**
+
+</div>
+
+---
 
 ## `// GITHUB STATISTICS`
 
 <div align="center">
 
-![Toxkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxkay&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=C9D1D9" alt="Contribution Graph" width="49%" />
 
 </div>
 
@@ -228,15 +253,18 @@ Full-stack financial management system with Islamic finance calculation engine
 
 ## `// CONTACT PROTOCOL`
 
-```bash
-toxkay@github:~$ echo "Let's connect and secure the digital world together"
-```
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+```bash
+toxkay@github:~$ echo "Let's connect and secure the digital world together"
+> Establishing secure connection...
+> [✓] Ready for collaboration
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 </div>
 
@@ -255,10 +283,10 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 
 **`[*] System Status: Online | [*] Threat Level: Green | [*] Coffee Level: Critical`**
 
-</div>
+<sub>⚡ Powered by caffeine and curiosity | 🔐 Secured with best practices | 💚 Built with passion</sub>
 
 ---
 
-<div align="center">
-  <sub>⚡ Powered by caffeine and curiosity | 🔐 Secured with best practices | 💚 Built with passion</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%"/>
+
 </div>
