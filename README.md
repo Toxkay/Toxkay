@@ -91,59 +91,116 @@ class PenetrationTester:
 </div>
 
 ---
-
-## `// ACTIVE EXPLOITS >> RECENT PROJECTS`
+## `// PROJECT ARSENAL >> DEPLOYMENT LOG`
 
 ```bash
-toxkay@github:~$ ls -la ./repositories/
+toxkay@github:~$ cat ./projects.manifest | grep -E "(security|systems|development)"
 ```
 
+<div align="left">
+
+### 🎯 **Security & Networking**
+
+<table>
+<tr>
+<td width="50px">🛡️</td>
+<td>
 <details>
-   <summary>🛡️ <b>Summer-Intern-Final-Project-NETSEC</b></summary>
-[CLASSIFIED] Capstone network security project from NTI training program
-Technologies: Network Security | Cisco Packet Tracer | Security Hardening
-Skills: Multi-area secure network design | VPNs | Firewalls | ACLs | Routing Protocols
-Status: ✅ Mission Complete
-
-</details> 
-
-<details> 
-   <summary>🖥️ <b>Vole-Machine</b></summary>
-[ACTIVE] Custom virtual machine implementation in C++
-Technologies: C++ | System Programming | Low-Level Architecture
-Skills: Memory Management | Instruction Set Design | Computer Architecture
-Status: 🟢 Operational
-
-</details> 
-
-<details> 
-   <summary>⚙️ <b>CS341-A3-CPU-Scheduler</b></summary>
-[DEPLOYED] CPU scheduling algorithms simulator (FCFS, SJF, Round Robin, Priority)
-Technologies: Java | Operating Systems Concepts
-Skills: Process Management | Algorithm Implementation | Performance Analysis
-Status: ✅ Fully Functional
-
+<summary><b>Summer-Intern-Final-Project-NETSEC</b> → <code>Mission Complete</code> ✅</summary>
+<br>
+<blockquote>
+<b>[CLASSIFIED]</b> Enterprise-grade network security infrastructure designed during NTI training program
+<br><br>
+<b>Tech Stack:</b> Network Security · Cisco Packet Tracer · Security Hardening<br>
+<b>Capabilities:</b> Multi-area secure network design · VPNs · Zone-Based Firewalls · ACLs · Routing Protocols (OSPF, RIP)<br>
+<b>Impact:</b> Implemented defense-in-depth security architecture for multi-site corporate network
+</blockquote>
 </details>
+</td>
+</tr>
+</table>
 
-<details> 
-   <summary>💻 <b>CS341-A1-Command-Line-Interpreter</b></summary>
-[ACTIVE] Custom shell/CLI interpreter with command parsing and execution
-Technologies: Java | Systems Programming
-Skills: Process Control | I/O Handling | Command Parsing
-Status: 🟢 Live & Functional
+### 💻 **Systems Programming**
 
-</details> 
+<table>
+<tr>
+<td width="50px">🖥️</td>
+<td>
+<details>
+<summary><b>Vole-Machine</b> → <code>Operational</code> 🟢</summary>
+<br>
+<blockquote>
+Custom virtual machine implementation built from scratch in C++
+<br><br>
+<b>Tech Stack:</b> C++ · System Programming · Low-Level Architecture<br>
+<b>Capabilities:</b> Memory Management · Custom Instruction Set · CPU Simulation<br>
+<b>Challenge:</b> Understanding computer architecture at the hardware-software interface
+</blockquote>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50px">⚙️</td>
+<td>
+<details>
+<summary><b>CS341-A3-CPU-Scheduler</b> → <code>Deployed</code> ✅</summary>
+<br>
+<blockquote>
+Multi-algorithm CPU scheduler simulator implementing industry-standard scheduling techniques
+<br><br>
+<b>Tech Stack:</b> Java · Operating Systems Concepts · Algorithm Design<br>
+<b>Algorithms:</b> FCFS · Shortest Job First · Round Robin · Priority Scheduling<br>
+<b>Features:</b> Performance benchmarking · Gantt chart visualization · Turnaround time analysis
+</blockquote>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50px">💻</td>
+<td>
+<details>
+<summary><b>CS341-A1-Command-Line-Interpreter</b> → <code>Active</code> 🟢</summary>
+<br>
+<blockquote>
+Unix-like shell interpreter with advanced command parsing and process management
+<br><br>
+<b>Tech Stack:</b> Java · Systems Programming · POSIX Standards<br>
+<b>Capabilities:</b> Process Control · I/O Redirection · Pipe Implementation · Command Parsing<br>
+<b>Learning:</b> Deep dive into OS process management and inter-process communication
+</blockquote>
+</details>
+</td>
+</tr>
+</table>
 
-<details> 
-   <summary>💰 <b>CS251-Asset-Management-Zakat-Calculation-System</b></summary>
-[DEPLOYED] Full-stack asset management system with zakat calculation algorithms
-Technologies: Backend Logic | Database Design | Financial Computing
-Status: ✅ Mission Complete
+### 🚀 **Application Development**
 
-</details> 
+<table>
+<tr>
+<td width="50px">💰</td>
+<td>
+<details>
+<summary><b>CS251-Asset-Management-Zakat-Calculation-System</b> → <code>Complete</code> ✅</summary>
+<br>
+<blockquote>
+Full-stack financial management system with Islamic finance calculation engine
+<br><br>
+<b>Tech Stack:</b> Backend Development · Database Design · Financial Computing<br>
+<b>Features:</b> Asset tracking · Automated zakat calculation · Multi-user support<br>
+<b>Complexity:</b> Complex business logic with religious compliance requirements
+</blockquote>
+</details>
+</td>
+</tr>
+</table>
 
+</div>
 
+```bash
+[*] 5 Projects Deployed | [*] Focus Areas: Security, Systems, Development
 ```
+
+---
 
 ---
 
