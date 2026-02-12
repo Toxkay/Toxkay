@@ -140,14 +140,6 @@ toxkay@github:~$ ls -la ./repositories/
 ! [NTI] Network Security - CompTIA Security+ & CCNA Track (120+ hours)
 ```
 
-**Key Achievements:**
-- ✅ Identified & exploited OWASP Top 10 vulnerabilities in controlled environments
-- ✅ Conducted full web app penetration tests using industry-standard tools
-- ✅ Designed & implemented multi-area secure network topologies
-- ✅ Configured enterprise-grade firewalls, VPNs, and AAA authentication systems
-
----
-
 ## `// GITHUB STATISTICS`
 
 <div align="center">
