@@ -293,10 +293,8 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 > [✓] Ready for collaboration
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-fady/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karenfadywork@gmail.com)
 
 </div>
 
@@ -306,8 +304,8 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  "The best defense is a good offense"                 ║
-║  - Penetration Testing Philosophy                     ║
+║        "The best defense is a good offense"           ║
+║        - Penetration Testing Philosophy               ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
@@ -316,7 +314,5 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 <sub>⚡ Powered by caffeine and curiosity | 🔐 Secured with best practices | 💚 Built with passion</sub>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%"/>
 
 </div>
