@@ -38,8 +38,6 @@
 ```
 
 🎓 **BSc in Computers & AI** @ Cairo University (2027)  
-🔐 **120+ Hours** of Network Security & Penetration Testing Training  
-💼 **Former IT Help-Desk** @ Patriarchal College  
 🎯 **Current Mission:** Breaking systems to build better defenses
 
 ---
@@ -215,50 +213,6 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 ```bash
 [*] 5 Projects Deployed | [*] Focus: Security • Systems • Development
 ```
-
----
-
-<div align="center">
-
-## 🎓 **TRAINING // CERTIFICATIONS**
-
-</div>
-
-<div align="center">
-
-| Certification | Description | Hours |
-|:---|:---|:---:|
-| **🔴 SANS SEC542** | Web App Penetration Testing & Ethical Hacking | 60+ |
-| **🔴 eWPT** | eLearnSecurity Web Application Penetration Tester | 60+ |
-| **🔴 NTI Security+** | Network Security - CompTIA Security+ & CCNA Track | 120+ |
-
-**Total Training Hours: 240+**
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 **ANALYTICS // GITHUB METRICS**
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Toxkay&theme=dark&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=ffffff&sideLabels=00FF00&dates=ffffff&border=00FF00)
-
-</div>
-
-<div align="center">
-
-```bash
-[*] Total Commits  [*] Total Stars  [*] Current Streak: Active
-```
-
-</div>
-
----
 
 <div align="center">
 
