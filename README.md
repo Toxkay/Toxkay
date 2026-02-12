@@ -32,17 +32,13 @@
 
 </div>
 
-<div align="center">
 ```bash
 ┌──(toxkay@kali)-[~/profile]
 └─$ cat /etc/hacker.conf
 ```
-</div>
 
-<div align="center">
 🎓 **BSc in Computers & AI** @ Cairo University (2027)  
 🎯 **Current Mission:** Breaking systems to build better defenses
-</div>
 
 ---
 
@@ -214,7 +210,6 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 </td></tr>
 </table>
 
-<div align="center">
 ```bash
 [*] 5 Projects Deployed | [*] Focus: Security • Systems • Development
 ```
