@@ -37,29 +37,10 @@
 └─$ cat /etc/hacker.conf
 ```
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **Mission**
-Breaking systems to build better defenses
-
-### 🎓 **Education**
-**BSc in Computers & AI**  
-Cairo University (Expected 2027)
-
-</td>
-<td width="50%">
-
-### 🔐 **Experience**
-**120+ Hours** Network Security & Penetration Testing Training
-
-### 💼 **Previous Role**
-IT Help-Desk @ Patriarchal College
-
-</td>
-</tr>
-</table>
+🎓 **BSc in Computers & AI** @ Cairo University (2027)  
+🔐 **120+ Hours** of Network Security & Penetration Testing Training  
+💼 **Former IT Help-Desk** @ Patriarchal College  
+🎯 **Current Mission:** Breaking systems to build better defenses
 
 ---
 
