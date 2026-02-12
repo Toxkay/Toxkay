@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
 ![Profile Views](https://komarev.com/ghpvc/?username=Toxkay&color=00FF00&style=for-the-badge&label=INTRUSION+ATTEMPTS)
 
-**[`About`](#-about--system-recon) • [`Skills`](#%EF%B8%8F-skills--offensive-capabilities) • [`Projects`](#-projects--deployment-log) • [`Training`](#-training--certifications) • [`Stats`](#-analytics--github-metrics) • [`Contact`](#-contact--secure-channels)**
+**[`About`](#-about--system-recon) • [`Skills`](#%EF%B8%8F-skills--offensive-capabilities) • [`Projects`](#-projects--deployment-log) • [`Stats`](#-analytics--github-metrics) • [`Contact`](#-contact--secure-channels)**
 
 </div>
 
