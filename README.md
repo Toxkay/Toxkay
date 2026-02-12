@@ -1,16 +1,200 @@
-## Hi there 👋
+```
+████████╗ ██████╗ ██╗  ██╗██╗  ██╗ █████╗ ██╗   ██╗
+╚══██╔══╝██╔═══██╗╚██╗██╔╝██║ ██╔╝██╔══██╗╚██╗ ██╔╝
+   ██║   ██║   ██║ ╚███╔╝ █████╔╝ ███████║ ╚████╔╝ 
+   ██║   ██║   ██║ ██╔██╗ ██╔═██╗ ██╔══██║  ╚██╔╝  
+   ██║   ╚██████╔╝██╔╝ ██╗██║  ██╗██║  ██║   ██║   
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+```
 
-<!--
-**Toxkay/Toxkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+### `[ PENETRATION TESTER | SECURITY RESEARCHER | IT SPECIALIST ]`
 
-Here are some ideas to get you started:
+```diff
++ root@toxkay:~# whoami
++ Aspiring Penetration Tester | Cairo University IT Major
++ Exploiting vulnerabilities, one CVE at a time...
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Toxkay](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
+![Profile Views](https://komarev.com/ghpvc/?username=Toxkay&color=00FF00&style=for-the-badge&label=INTRUSION+ATTEMPTS)
+
+</div>
+
+---
+
+## `// SYSTEM RECONNAISSANCE`
+
+```bash
+┌──(toxkay@kali)-[~/profile]
+└─$ cat /etc/hacker.conf
+```
+
+🎓 **BSc in Computers & AI** @ Cairo University (2027)  
+🔐 **120+ Hours** of Network Security & Penetration Testing Training  
+💼 **Former IT Help-Desk** @ Patriarchal College  
+🎯 **Current Mission:** Breaking systems to build better defenses
+
+---
+
+## `// OFFENSIVE CAPABILITIES`
+
+```python
+class PenetrationTester:
+    def __init__(self):
+        self.mindset = "Think like an attacker, defend like an architect"
+        self.certifications = ["SANS SEC542", "eWPT"]
+        self.training_hours = 120
+        
+    def exploit_vector(self):
+        return {
+            "web_vulns": ["SQLi", "XSS", "CSRF", "SSRF", "LFI/RFI", "Command Injection"],
+            "methodology": "OWASP Top 10",
+            "recon": ["OSINT", "Directory Fuzzing", "Tech Stack Enumeration"],
+            "tools": ["Burp Suite Pro", "OWASP ZAP", "ffuf", "Nmap", "Wireshark"]
+        }
+    
+    def network_arsenal(self):
+        return {
+            "cisco": ["Routing (OSPF, RIP)", "VLANs", "ACLs", "Zone-Based Firewalls"],
+            "hardening": ["AAA (RADIUS/TACACS+)", "VPNs", "NAT", "IP Subnetting"],
+            "protocols": ["TCP/IP", "DNS", "DHCP", "Secure Network Topology Design"]
+        }
+```
+
+---
+
+## `// TECH STACK >> WEAPONS CACHE`
+
+<div align="center">
+
+### `[+] Exploitation & Security Tools`
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge)
+
+### `[+] Programming Languages`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### `[+] Network & Infrastructure`
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## `// ACTIVE EXPLOITS >> RECENT PROJECTS`
+
+```bash
+toxkay@github:~$ ls -la ./repositories/
+```
+
+<details>
+<summary>📂 <b>CS251-Asset-Management-Zakat-Calculation-System</b></summary>
+  
+> **[DEPLOYED]** Full-stack asset management system with zakat calculation algorithms  
+> `Technologies:` Backend Logic | Database Design | Financial Computing  
+> `Status:` ✅ Mission Complete
+</details>
+
+<details>
+<summary>🎮 <b>Games-</b></summary>
+  
+> **[ACTIVE]** Collection of Tic-Tac-Toe variations with unique game mechanics  
+> `Technologies:` C++ | Game Logic | OOP Principles  
+> `Status:` 🟢 Live & Playable
+</details>
+
+<details>
+<summary>🌐 <b>Web-project</b></summary>
+  
+> **[DEPLOYED]** Web application demonstrating full-stack development skills  
+> `Technologies:` JavaScript | PHP | SQL | HTML/CSS  
+> `Status:` ✅ Operational
+</details>
+
+<details>
+<summary>💻 <b>My_Project</b></summary>
+  
+> **[ARCHIVED]** Academic assignment showcasing C++ proficiency  
+> `Technologies:` C++ | Data Structures & Algorithms  
+> `Status:` 📦 Completed
+</details>
+
+---
+
+## `// TRAINING LOGS >> CERTIFICATIONS`
+
+```diff
+! [SANS SEC542] Web App Penetration Testing & Ethical Hacking (60+ hours)
+! [eWPT] eLearnSecurity Web Application Penetration Tester (60+ hours)
+! [NTI] Network Security - CompTIA Security+ & CCNA Track (120+ hours)
+```
+
+**Key Achievements:**
+- ✅ Identified & exploited OWASP Top 10 vulnerabilities in controlled environments
+- ✅ Conducted full web app penetration tests using industry-standard tools
+- ✅ Designed & implemented multi-area secure network topologies
+- ✅ Configured enterprise-grade firewalls, VPNs, and AAA authentication systems
+
+---
+
+## `// GITHUB STATISTICS`
+
+<div align="center">
+
+![Toxkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+
+</div>
+
+---
+
+## `// CONTACT PROTOCOL`
+
+```bash
+toxkay@github:~$ echo "Let's connect and secure the digital world together"
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║  "The best defense is a good offense"                 ║
+║  - Penetration Testing Philosophy                     ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+![Snake animation](https://github.com/Toxkay/Toxkay/blob/output/github-contribution-grid-snake-dark.svg)
+
+**`[*] System Status: Online | [*] Threat Level: Green | [*] Coffee Level: Critical`**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by caffeine and curiosity | 🔐 Secured with best practices | 💚 Built with passion</sub>
+</div>
