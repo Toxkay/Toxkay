@@ -265,13 +265,7 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=ffffff&border_color=00FF00&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Toxkay&theme=dark&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=ffffff&sideLabels=00FF00&dates=ffffff&border=00FF00)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Toxkay&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
