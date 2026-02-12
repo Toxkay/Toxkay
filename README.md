@@ -6,7 +6,7 @@
    ██║   ██║   ██║ ╚███╔╝ █████╔╝ ███████║ ╚████╔╝ 
    ██║   ██║   ██║ ██╔██╗ ██╔═██╗ ██╔══██║  ╚██╔╝  
    ██║   ╚██████╔╝██╔╝ ██╗██║  ██╗██║  ██║   ██║   
-   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+   ╚═╝    ╚═════╝ ���═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 ```
 
 ### `[ PENETRATION TESTER | SECURITY RESEARCHER ]`
@@ -20,13 +20,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
 ![Profile Views](https://komarev.com/ghpvc/?username=Toxkay&color=00FF00&style=for-the-badge&label=INTRUSION+ATTEMPTS)
 
-**[`About`](#-system-reconnaissance) • [`Skills`](#-offensive-capabilities) • [`Projects`](#-project-arsenal) • [`Training`](#-training-logs) • [`Contact`](#-contact-protocol)**
+**[`About`](#-about--system-recon) • [`Skills`](#%EF%B8%8F-skills--offensive-capabilities) • [`Projects`](#-projects--deployment-log) • [`Training`](#-training--certifications) • [`Stats`](#-analytics--github-metrics) • [`Contact`](#-contact--secure-channels)**
 
 </div>
 
 ---
 
-## `// SYSTEM RECONNAISSANCE`
+<div align="center">
+
+## 🔍 **ABOUT // SYSTEM RECON**
+
+</div>
 
 ```bash
 ┌──(toxkay@kali)-[~/profile]
@@ -59,7 +63,11 @@ IT Help-Desk @ Patriarchal College
 
 ---
 
-## `// OFFENSIVE CAPABILITIES`
+<div align="center">
+
+## ⚔️ **SKILLS // OFFENSIVE CAPABILITIES**
+
+</div>
 
 ```python
 class PenetrationTester:
@@ -105,7 +113,11 @@ class PenetrationTester:
 
 ---
 
-## `// TECH STACK >> WEAPONS CACHE`
+<div align="center">
+
+## 🛠️ **TECH STACK // WEAPONS CACHE**
+
+</div>
 
 <div align="center">
 
@@ -139,7 +151,11 @@ class PenetrationTester:
 
 ---
 
-## `// PROJECT ARSENAL >> DEPLOYMENT LOG`
+<div align="center">
+
+## 🚀 **PROJECTS // DEPLOYMENT LOG**
+
+</div>
 
 ```bash
 toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
@@ -221,7 +237,11 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 
 ---
 
-## `// TRAINING LOGS >> CERTIFICATIONS`
+<div align="center">
+
+## 🎓 **TRAINING // CERTIFICATIONS**
+
+</div>
 
 <div align="center">
 
@@ -237,21 +257,32 @@ toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
 
 ---
 
-## `// GITHUB STATISTICS`
+<div align="center">
+
+## 📊 **ANALYTICS // GITHUB METRICS**
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" width="49%" />
+<a href="https://github.com/Toxkay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117&border_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=radical&title_color=00FF00&text_color=00FF00&bg_color=0d1117&border_color=00FF00&langs_count=8"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxkay&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=C9D1D9" alt="Contribution Graph" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=radical&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&background=0d1117&border=00FF00" alt="GitHub Streak Stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Toxkay&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## `// CONTACT PROTOCOL`
+<div align="center">
+
+## 📡 **CONTACT // SECURE CHANNELS**
+
+</div>
 
 <div align="center">
 
@@ -279,7 +310,11 @@ toxkay@github:~$ echo "Let's connect and secure the digital world together"
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-![Snake animation](https://github.com/Toxkay/Toxkay/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Toxkay/Toxkay/output/github-contribution-grid-snake.svg">
+</picture>
 
 **`[*] System Status: Online | [*] Threat Level: Green | [*] Coffee Level: Critical`**
 
