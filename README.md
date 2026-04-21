@@ -17,10 +17,8 @@
 + Exploiting vulnerabilities, one CVE at a time...
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Toxkay-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Toxkay)
-![Profile Views](https://komarev.com/ghpvc/?username=Toxkay&color=00FF00&style=for-the-badge&label=INTRUSION+ATTEMPTS)
-
-**[`About`](#-about--system-recon) • [`Skills`](#%EF%B8%8F-skills--offensive-capabilities) • [`Projects`](#-projects--deployment-log) • [`Contact`](#-contact--secure-channels)**
+**PRIMARY HQ:** **https://toxkay.github.io**  
+Writeups • Notes • CV • Deep project breakdowns → **on the website**
 
 </div>
 
@@ -56,59 +54,24 @@ class PenetrationTester:
         self.training_hours = 120
 ```
 
-<details>
-<summary><b>🎯 Web Application Security</b></summary>
+## 🚀 PROJECTS // QUICK INDEX
+> Full writeups / diagrams / implementation notes live on the site.
 
-<br>
+### 🛡️ Security & Networking
+- **Summer-Intern-Final-Project-NETSEC** — enterprise network security design (VPNs, ZBFW, ACLs, routing)
 
-**Vulnerabilities:**
-- SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
-- Cross-Site Request Forgery (CSRF)
-- Server-Side Request Forgery (SSRF)
-- Local/Remote File Inclusion (LFI/RFI)
-- Command Injection
+### 💻 Systems Programming
+- **Vole-Machine** — custom VM in C++ (ISA, CPU simulation, memory mgmt)
+- **CS341-A3-CPU-Scheduler** — CPU scheduling simulator (FCFS, SJF, RR, Priority)
+- **CS341-A1-Command-Line-Interpreter** — Unix-like shell (parsing, processes, redirection/pipes)
 
-**Methodology:** OWASP Top 10
+### 🚀 Application Development
+- **CS251-Asset-Management-Zakat-Calculation-System** — asset tracking + zakat calculation engine
 
-**Reconnaissance:**
-- OSINT
-- Directory Fuzzing
-- Tech Stack Enumeration
+➡️ **Deep dives:** https://toxkay.github.io
 
-**Tools:**
-- Burp Suite Pro
-- OWASP ZAP
-- ffuf
-- Nmap
-- Wireshark
+---
 
-</details>
-
-<details>
-<summary><b>🌐 Network Security & Infrastructure</b></summary>
-
-<br>
-
-**Cisco Networking:**
-- Routing (OSPF, RIP)
-- VLANs
-- Access Control Lists (ACLs)
-- Zone-Based Firewalls
-
-**Security Hardening:**
-- AAA (RADIUS/TACACS+)
-- VPNs
-- NAT
-- IP Subnetting
-
-**Protocols:**
-- TCP/IP
-- DNS
-- DHCP
-- Secure Network Topology Design
-
-</details>
 
 ---
 
@@ -152,99 +115,10 @@ class PenetrationTester:
 
 <div align="center">
 
-## 🚀 **PROJECTS // DEPLOYMENT LOG**
-
-</div>
-
+## 📡 CONTACT
 ```bash
-toxkay@github:~$ ls -la ./projects/ | grep -E "(security|systems|development)"
+toxkay@github:~$ echo "Ping me from the site contact section"
 ```
-
-<details open>
-<summary><b>🛡️ Security & Networking</b></summary>
-
-<br>
-
-#### **[Summer-Intern-Final-Project-NETSEC](https://github.com/Toxkay/Summer-Intern-Final-Project-NETSEC)** `[CLASSIFIED]` ✅
-
-> Enterprise-grade network security infrastructure designed during NTI training program
-
-**Tech Stack:** Network Security • Cisco Packet Tracer • Security Hardening  
-**Capabilities:** Multi-area secure network design • VPNs • Zone-Based Firewalls • ACLs • Routing Protocols (OSPF, RIP)  
-**Impact:** Implemented defense-in-depth security architecture for multi-site corporate network
-
-</details>
-
-<details open>
-<summary><b>💻 Systems Programming</b></summary>
-
-<br>
-
-#### **[Vole-Machine](https://github.com/Toxkay/Vole-Machine)** `[OPERATIONAL]` 🟢
-
-> Custom virtual machine implementation built from scratch in C++
-
-**Tech Stack:** C++ • System Programming • Low-Level Architecture  
-**Capabilities:** Memory Management • Custom Instruction Set • CPU Simulation  
-**Challenge:** Understanding computer architecture at the hardware-software interface
-
----
-
-#### **[CS341-A3-CPU-Scheduler](https://github.com/Toxkay/CS341-A3-CPU-Scheduler)** `[DEPLOYED]` ✅
-
-> Multi-algorithm CPU scheduler simulator implementing industry-standard scheduling techniques
-
-**Tech Stack:** Java • Operating Systems Concepts • Algorithm Design  
-**Algorithms:** FCFS • Shortest Job First • Round Robin • Priority Scheduling  
-**Features:** Performance benchmarking • Gantt chart visualization • Turnaround time analysis
-
----
-
-#### **[CS341-A1-Command-Line-Interpreter](https://github.com/Toxkay/CS341-A1-Command-Line-Interpreter)** `[ACTIVE]` 🟢
-
-> Unix-like shell interpreter with advanced command parsing and process management
-
-**Tech Stack:** Java • Systems Programming • POSIX Standards  
-**Capabilities:** Process Control • I/O Redirection • Pipe Implementation • Command Parsing  
-**Learning:** Deep dive into OS process management and inter-process communication
-
-</details>
-
-<details open>
-<summary><b>🚀 Application Development</b></summary>
-
-<br>
-
-#### **[CS251-Asset-Management-Zakat-Calculation-System](https://github.com/Toxkay/CS251-Asset-Management-Zakat-Calculation-System)** `[COMPLETE]` ✅
-
-> Full-stack financial management system with Islamic finance calculation engine
-
-**Tech Stack:** Backend Development • Database Design • Financial Computing  
-**Features:** Asset tracking • Automated zakat calculation • Multi-user support  
-**Complexity:** Complex business logic with religious compliance requirements
-
-</details>
-
-```bash
-[*] 5 Projects Deployed | [*] Focus: Security • Systems • Development
-```
-
-<div align="center">
-
-## 📡 **CONTACT // SECURE CHANNELS**
-
-</div>
-
-<div align="center">
-
-```bash
-toxkay@github:~$ echo "Let's connect and secure the digital world together"
-> Establishing secure connection...
-> [✓] Ready for collaboration
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-fady/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karenfadywork@gmail.com)
 
 </div>
 
