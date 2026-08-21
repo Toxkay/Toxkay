@@ -10,8 +10,8 @@
 [![Website](https://img.shields.io/badge/Website-toxkay.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://toxkay.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karen--fady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karen-fady)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-ToxKay-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ToxKay)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-ToxKay-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019d05c8-a3c5-701f-b424-940961ed4d31)
 [![GitHub followers](https://img.shields.io/github/followers/Toxkay?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/Toxkay)
-
 </div>
 
 <br/>
