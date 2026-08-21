@@ -160,6 +160,7 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=dracula&hide_border=true" alt="Top languages"/>
 </div>
+
 ---
 
 ## 🤝 Contributing
