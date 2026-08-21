@@ -154,7 +154,7 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
 </div>
 
 ---
