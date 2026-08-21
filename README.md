@@ -159,15 +159,6 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 
 ---
 
-## 🤝 Contributing
-
-This profile repo is just my landing page, but feedback and contributions on my project repos are always welcome — open an issue or PR directly on:
-- [reconw-orchestrator](https://github.com/Toxkay/reconw-orchestrator)
-- [Summer-Intern-FInal-Project-NETSEC](https://github.com/Toxkay/Summer-Intern-FInal-Project-NETSEC)
-
----
-
-
 ## 📡 Contact
 
 | Platform | Link |
