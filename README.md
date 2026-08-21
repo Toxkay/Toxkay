@@ -190,22 +190,16 @@ This profile repo is just my landing page, but feedback and contributions on my 
 
 ---
 
-## 📄 License
-
-This profile README has no formal license. Individual project repositories may carry their own license — check each repo for details.
-`[Add license badge/link here if you choose to license your projects, e.g. MIT]`
-
----
 
 ## 📡 Contact
 
 | Platform | Link |
 | :--- | :--- |
 | 🌐 Website / Portfolio | [toxkay.github.io](https://toxkay.github.io) |
-| 📧 Email | `[Add email here]` |
-| 💼 LinkedIn | `[Add LinkedIn URL here]` |
-| 🐦 X / Twitter | `[Add X/Twitter URL here]` |
-| 🎯 TryHackMe / Hack The Box | `[Add CTF profile link here]` |
+| 📧 Email | `karenfadywork@gmail.com` |
+| 💼 LinkedIn | `https://www.linkedin.com/in/karen-fady/` |
+| 🐦 X / Twitter | `https://x.com/whoAmIwhenNo10` |
+| 🎯 TryHackMe / Hack The Box | `tryhackme.com/p/ToxKay` / `https://profile.hackthebox.com/profile/019d05c8-a3c5-701f-b424-940961ed4d31?utm_medium=copy_url` |
 
 <div align="center">
 
