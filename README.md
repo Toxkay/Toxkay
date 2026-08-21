@@ -99,11 +99,10 @@ I like projects that ship a working artifact, not just theory — something you 
 | Project | Focus Area | Description |
 | :--- | :--- | :--- |
 | [Vole-Machine](https://github.com/Toxkay/Vole-Machine) | Systems Programming | C++ simulation of a CPU with a custom instruction set, 256-cell memory, and registers R0–RC. Implements the full Fetch-Decode-Execute cycle with custom 8-bit floating-point and two's complement integer formats |
-| [Plateful](https://github.com/Toxkay/IS231-Plateful-Project) | Full-Stack Development | Full-stack recipe management system built with Django and JavaScript — custom auth flows, encrypted session handling, Django ORM + SQLite persistence |
+| [IS231-Plateful-Project](https://github.com/Toxkay/IS231-Plateful-Project)| Full-Stack Development | Full-stack recipe management system built with Django and JavaScript — custom auth flows, encrypted session handling, Django ORM + SQLite persistence |
 | [CS341-A3-CPU-Scheduler](https://github.com/Toxkay/CS341-A3-CPU-Scheduler) | Systems Programming | CPU scheduling simulator implementing FCFS, SJF, Round Robin, and Priority scheduling |
 | [CS341-A1-Command-Line-Interpreter](https://github.com/Toxkay/CS341-A1-Command-Line-Interpreter) | Systems Programming | Unix-like shell — parsing, process control, redirection & pipes |
 | [CS251-Asset-Management-Zakat-Calculation-System](https://github.com/Toxkay/CS251-Asset-Management-Zakat-Calculation-System) | Application Development | Asset tracking system with an integrated Zakat calculation engine |
-|[IS231-Plateful-Project](https://github.com/Toxkay/IS231-Plateful-Project)| Web Application |A collaborative web project developed to help users discover, collect, and manage their favorite recipes in a visually appealing and user-friendly way|
 
 ---
 
