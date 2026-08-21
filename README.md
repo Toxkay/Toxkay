@@ -90,8 +90,6 @@ I like projects that ship a working artifact, not just theory — something you 
 - 🖥️ **Offline interactive HTML dashboard** — client-side search, severity filtering, and JSON export, no server required
 - 🧩 **Cross-platform** — Linux (Kali/Ubuntu/Debian), macOS, and Windows
 
-`[Insert architecture diagram here — e.g. Subfinder → DNSx → HTTPx → Katana → Prioritization Engine → HTML Report]`
-
 **Quick start:**
 ```bash
 git clone https://github.com/Toxkay/reconw-orchestrator.git
