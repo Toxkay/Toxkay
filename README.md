@@ -126,14 +126,6 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-FF4500?style=for-the-badge&logo=go&logoColor=white)
 
-**Vulnerability Assessment**
-
-`OWASP Top 10` · `SQLi` · `XSS (Stored/Reflected/DOM)` · `CSRF` · `SSRF` · `LFI/RFI` · `Command Injection`
-
-**Network Security**
-
-`OSPF` · `RIP` · `VLANs` · `IP Subnetting` · `ACLs` · `Zone-Based Policy Firewalls (ZPF)` · `VPN` · `AAA (RADIUS/TACACS+)` · `TCP/IP` · `DNS` · `DHCP` · `NAT` · `HTTP/S`
-
 **Languages & Fundamentals**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -158,18 +150,16 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Toxkay's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=dracula&hide_border=true" alt="Top languages"/>
 </div>
-
 ---
 
 ## 🤝 Contributing
