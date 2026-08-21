@@ -22,7 +22,7 @@
 > - 🛡️ **CNSP (Certified Network Security Practitioner)** — passed with merit, The SecOps Group
 > - 🛠️ Built **ReconW** — a local-first, 5-stage recon automation pipeline for bug bounty & attack-surface work
 > - 🌐 Designed and secured a multi-zone enterprise network (ZPF, ACLs, AAA, VPN, VLANs) in Cisco Packet Tracer
-> - 🎓 Third-year **BSc Computers & AI (IT)** student @ Cairo University, expected 2027
+> - 🎓 Fourth-year **BSc Computers & AI (IT)** student @ Cairo University, expected 2027
 
 <br/>
 
