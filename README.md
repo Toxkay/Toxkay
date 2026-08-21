@@ -83,22 +83,6 @@ I like projects that ship a working artifact, not just theory — something you 
 
 **Why it matters:** Early-stage recon is usually a pile of disconnected CLI tools and manual note-taking. ReconW chains industry-standard tools into one pipeline, enforces strict in-scope/out-of-scope boundaries, and logs every command and finding for provenance — so results are reproducible and defensible, not just "trust me."
 
-**Key features:**
-- 🔗 **5-stage pipeline:** Subfinder → DNSx → HTTPx → Katana → explainable Python scoring engine
-- 🗂️ **Program-centric SQLite storage** — dedicated, queryable database per target program (e.g. `tiktok.db`)
-- 📊 **Explainable prioritization** — transparent scoring rules (e.g. `+30 Admin/Auth`, `+20 Sensitive APIs`) rank findings from Critical → Info
-- 🖥️ **Offline interactive HTML dashboard** — client-side search, severity filtering, and JSON export, no server required
-- 🧩 **Cross-platform** — Linux (Kali/Ubuntu/Debian), macOS, and Windows
-
-**Quick start:**
-```bash
-git clone https://github.com/Toxkay/reconw-orchestrator.git
-cd reconw-orchestrator
-pip install -e .
-
-reconw doctor                                          # verify dependencies
-reconw run -p "ProgramName" -i inscope.txt -o outscope.txt
-```
 
 <br/>
 
@@ -107,21 +91,6 @@ reconw run -p "ProgramName" -i inscope.txt -o outscope.txt
 **A solo-built Cisco Packet Tracer lab implementing a layered, multi-zone enterprise network security design — the final project for my NTI Network Security training.**
 
 **Why it matters:** Network security theory means little without hands-on config experience. This lab demonstrates real-world defensive architecture — from perimeter firewalling down to role-based admin access — validated inside a working simulated topology rather than described in slides.
-
-**Key features:**
-- 🧱 **Zone-Based Policy Firewall (ZPF)** — segments the network and enforces inter-zone policy
-- 🚧 **Standard & Extended ACLs** — controls traffic flow and restricts unauthorized access
-- 🔐 **AAA via RADIUS/TACACS+** — manages admin authentication and tracks configuration changes
-- 🔒 **VPN** — secure remote access and site-to-site connectivity
-- 🧩 **VLAN segmentation & OSPF/RIP routing** — isolates traffic and connects the multi-area topology
-- 👤 **CLI Views** — role-based access for network administrators
-
-**Quick start:**
-```bash
-git clone https://github.com/Toxkay/Summer-Intern-FInal-Project-NETSEC.git
-# Open the .pkt file in Cisco Packet Tracer to explore the topology,
-# then inspect each device's CLI for ZPF rules, ACLs, AAA, VPN, and VLAN config.
-```
 
 ---
 
@@ -134,8 +103,7 @@ git clone https://github.com/Toxkay/Summer-Intern-FInal-Project-NETSEC.git
 | [CS341-A3-CPU-Scheduler](https://github.com/Toxkay/CS341-A3-CPU-Scheduler) | Systems Programming | CPU scheduling simulator implementing FCFS, SJF, Round Robin, and Priority scheduling |
 | [CS341-A1-Command-Line-Interpreter](https://github.com/Toxkay/CS341-A1-Command-Line-Interpreter) | Systems Programming | Unix-like shell — parsing, process control, redirection & pipes |
 | [CS251-Asset-Management-Zakat-Calculation-System](https://github.com/Toxkay/CS251-Asset-Management-Zakat-Calculation-System) | Application Development | Asset tracking system with an integrated Zakat calculation engine |
-
-`[Add repo link for Plateful here — couldn't verify a public Toxkay/Plateful repo]`
+|[IS231-Plateful-Project](https://github.com/Toxkay/IS231-Plateful-Project)| Web Application |A collaborative web project developed to help users discover, collect, and manage their favorite recipes in a visually appealing and user-friendly way|
 
 ---
 
