@@ -161,17 +161,6 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 
 ---
 
-## 📡 Contact
-
-| Platform | Link |
-| :--- | :--- |
-| 🌐 Website / Portfolio | [toxkay.github.io](https://toxkay.github.io) |
-| 📧 Email | [karenfadywork@gmail.com](karenfadywork@gmail.com) |
-| 💼 LinkedIn | [LinkedIn Profile](https://www.linkedin.com/in/karen-fady/) |
-| 🐦 X / Twitter | [Twitter Account](https://x.com/whoAmIwhenNo10) |
-| 🎯 TryHackMe  | [TryHackMe Profile](tryhackme.com/p/ToxKay)|
-| 🎯 Hack The Box |[HTB Profile](https://profile.hackthebox.com/profile/019d05c8-a3c5-701f-b424-940961ed4d31?utm_medium=copy_url) |
-
 <div align="center">
 
 **"The best defense is a good offense."**
