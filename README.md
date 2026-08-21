@@ -153,12 +153,8 @@ Resolved hardware/software issues across Windows and Linux devices; installed an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toxkay&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Toxkay's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxkay&layout=compact&theme=dracula&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=Toxkay&theme=dracula&hide_border=true" alt="Toxkay's GitHub streak" height="165"/>
 </div>
 
 ---
